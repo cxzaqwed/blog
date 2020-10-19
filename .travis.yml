@@ -2,20 +2,20 @@ language: ruby
 cache: bundler
 branches:
   only:
-  - master
+  - main
 before_install:
-- gem install bundler -v 2.0.1
+- gem install bundler 
 script:
   - JEKYLL_ENV=production bundle exec jekyll build --destination site
 deploy:
-  repo: bitbrain/bitbrain.github.io
+  repo: cxzaqwed/cxzaqwed.github.io
   provider: pages
   local-dir: ./site
-  target-branch: master
+  target-branch: main
   email: deploy@travis-ci.org
   name: Deployment Bot
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   keep-history: true
   on:
-    branch: master
+    branch: main
