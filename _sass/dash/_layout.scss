@@ -222,7 +222,7 @@
  }
 
 .tag, .tag-cloud > a {
-  color: $color-green;
+  color: #BF0;
   @include themed() {
      background-color: t('background-color');
   }
@@ -286,12 +286,12 @@
   }
 
   & > a {
-    color: $color-green;
+    color: #BF0;
     @include themed() {
        background-color: t('background-color');
     }
     &:hover {
-      color: lighten($color-green, 20%);
+      color: lighten(#BF0, 20%);
       @include themed() {
          background-color: lighten(t('background-color'), 5%);
       }
