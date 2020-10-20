@@ -1,9 +1,9 @@
 title: cxzaqwed
 url: https://cxzaqwed.github.io
-author: bitbrain
-email: miguel-gonzalez@gmx.de
+author: cxzaqwed
+email: cxzaqwed@protonmail.ch
 description: > # this means to ignore newlines until "show_exerpts:"
-  Hi there, I am Miguel and I create games! Occasionally I blog about cloud, gamedev and web. Born and raised in Germany, studied in the Netherlands, currently living in the UK.
+  I like to know how everything works on this simulation called "life". I test, explore, create, and everything else that Science help us to do.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 5
@@ -19,28 +19,25 @@ dash:
   date_format: "%b %-d, %Y"
 
   disqus:
-    shortname: bitbrain-github-io
+    shortname: cxzaqwed-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://soundcloud.com/myrealityde
-      icon: soundcloud
-      color: orange
-    - url: https://twitter.com/bitbrain_
+    - url: https://twitter.com/cxzaqwed22
       icon: twitter-square
       color: cyan
-    - url: https://bitbrain.itch.io
-      icon: itch-io
-      color: red
-    - url: https://www.twitch.tv/bitbrain_
+    - url: https://www.twitch.tv/cxzaqwed22
       icon: twitch
       color: purple
-    - url: https://www.youtube.com/channel/UCZDjQltHRNiXIYXMBeLDleA
-      icon: youtube
-      color: red
-    - url: https://github.com/bitbrain
+    - url: https://github.com/cxzaqwed
       icon: github-square
+      color: yellow
+    - url: https://steamcommunity.com/id/cxzaqwed/
+      icon: steam
+      color: yellow
+    - url: https://www.linkedin.com/in/cxzaqwed/
+      icon: linkedin
       color: yellow
 
 # Build settings
