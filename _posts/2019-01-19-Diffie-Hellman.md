@@ -2,7 +2,7 @@
 layout: post
 title: "WTF is Diffie-Hellman"
 description: "Uma rápida explicação sobre Diffie-Hellman"
-tags: crypto EN
+tags: crypto BR
 ---
 
 
