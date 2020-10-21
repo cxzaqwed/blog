@@ -224,7 +224,7 @@
 .tag, .tag-cloud > a {
   color: #BF0;
   @include themed() {
-     background-color: t('background-color');
+     background-color: #001a07;
   }
   padding: 0.3em 0.6em;
   border-radius: 0.3em;
